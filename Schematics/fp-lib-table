@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SamacSys_Parts)(type KiCad)(uri ${KIPRJMOD}/Libraries/SamacSys_Parts.pretty)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/Libraries/SOT89_mosfet/footprints.pretty)(options "")(descr ""))
+)
